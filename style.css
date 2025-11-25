@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Box-One {
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  background-color: lightcoral;
+  border: 2px solid darkred;
+  margin: 20px;
+}
+.Box-Two {
+  width: 100px;
+  padding: 10px;
+  height: 100px;
+  background-color: lightblue;
+  border: 2px solid navy;
+  margin: 20px;
+}
